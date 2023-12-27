@@ -7,3 +7,7 @@ The ultimate goal is to contribute to the development of a scalable, real-time m
 ## Explanation :
 
 The model is based on Resnet101 for its training. During each epoch, the model is trained on the training dataset, and its performance is evaluated on the validation dataset. The training progress, including losses and validation accuracy, is printed for each epoch. The function uses a copy of the best-performing model weights and returns the trained model. Additionally, a learning rate scheduler is employed to adjust the learning rate based on the validation loss, contributing to improved training stability.
+
+## Data source :
+
+https://www.kaggle.com/competitions/rfcx-species-audio-detection/data
