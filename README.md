@@ -1,6 +1,6 @@
 # Project-Introduction-Eco-Acoustic-Species-Detection
 
-In this project, I am developing machine learning models for the automated detection of bird and frog species in tropical soundscapes. Collaborating with Rainforest Connection (RFCx), a leader in conservation technology, my focus is on overcoming the limitations of traditional deep learning models by creating a system that can accurately identify species with limited training data. 
+In this project, I am developing machine learning models for the automated detection of bird and frog species in tropical soundscapes. Using the data provided by the Rainforest Connection (RFCx), a leader in conservation technology, my focus is on overcoming the limitations of traditional deep learning models by creating a system that can accurately identify species with limited training data. 
 
 The ultimate goal is to contribute to the development of a scalable, real-time monitoring system for remote ecosystems, providing valuable insights into environmental changes and supporting swift conservation efforts.
 
